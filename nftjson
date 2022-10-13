@@ -1,0 +1,4302 @@
+[
+  {
+    "name": "xronin nft",
+    "description": "xronin",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "1e7729fab5a820c3006353e9d7cf070c43eafe3f",
+    "edition": 1,
+    "date": 1664262223728,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PURPZ"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK NATURAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "SLICK"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "BORG"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "DEMON DEMPO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT LONG"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CELTIC"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "LITTLEFRIEND"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "848a791b99438e1a94e37751dfc582ce62ee83d0",
+    "edition": 2,
+    "date": 1664262225402,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "TEAL"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK KATAKANA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "SLICK"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SOLO"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "DEMON DEMPO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT SUBERAKA"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CLEAN"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "KATANA"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "addef9e1d4562d6f09d7b8f348d1ecb527b7e24d",
+    "edition": 3,
+    "date": 1664262227728,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "WAVES"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK KATAKANA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "BATTLE"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SCAR"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "DEMPO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "BROND"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CLEAN"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "CHOKE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "b622f4947ceb64e9ce7312766cf68aff41775881",
+    "edition": 4,
+    "date": 1664262229320,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "DEATH"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK AOI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "ZOOTED"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PATCH"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "TWIG"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "iroppoi"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "KRISPY"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "LITTLEFRIEND"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "a9cb7c74cdd7e79c98c4940861605f27ff046d34",
+    "edition": 5,
+    "date": 1664262231004,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "RANKED"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK NATURAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "TRADITIONAL"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "FOCUSED"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "TWIG"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "CAESAR"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "KRISPY"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "NUNCHAK"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "2cc75eafb9c904a968b43e4b3fdcb565efa349e3",
+    "edition": 6,
+    "date": 1664262232808,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "CLEAR"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK KATAKANA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "SLICK"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "FOCUSED"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "DEMPO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "nagai"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CELTIC"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "GLOW"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "067ab9cfd31a7660d22fc1c035616923fa22a065",
+    "edition": 7,
+    "date": 1664262234403,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PHASE"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL AOI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "SWAG"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "FOCUSED"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "MASK"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT SUBERAKA"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "RUBYRED"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "MOTSU"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "cf61b13bd0cbb61073af50a38e3ab30c891f3e28",
+    "edition": 8,
+    "date": 1664262236186,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "REVOLUTION"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL NATURAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "RUBY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SHADES"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SEEKER"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT IROPPOI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "RUBYRED"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "GLOW"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #9",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "1379559a8ed8a87ba64dd2d51dd16d152e75c617",
+    "edition": 9,
+    "date": 1664262237747,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PURPZ"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL NATURAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "RUBY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SCAR"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "EXO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "shirai"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CLEAN"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "MOTSU"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #10",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "90c134974ef6df8c9bffab0fe9a9d812f4bec2f0",
+    "edition": 10,
+    "date": 1664262239354,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "CLEAR"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL JHOA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "SWAG"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "FOCUSED"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "EXO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "suberaka"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "TRIBAL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "CHOKE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #11",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "0ef5452e668f5f818e555dbcb17bcc1cc4a9a094",
+    "edition": 11,
+    "date": 1664262241052,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "DEATH"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL AOI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "KOI"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NATURAL"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SMOKIN"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT SUBERAKA"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CROSS"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "GLOW"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #12",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "9f785e20c8c934b470f3974b41a71607c7715a34",
+    "edition": 12,
+    "date": 1664262242590,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "DEATH"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK NATURAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "BUFF"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SCAR"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "BUBBLE"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "iroppoi"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "TRIBAL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "LITTLEFRIEND"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #13",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "9cf7504c4b2fc8d1bb1e49e766980c34b8a1b79c",
+    "edition": 13,
+    "date": 1664262244215,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PHASE"
+      },
+      {
+        "trait_type": "Face",
+        "value": "TRIBAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "KOI"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "FOCUSED"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "EXO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "IPA"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "JEWEL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "KATANA"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #14",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "fc448c6d99056b120786cd2a5ea3d637b349d358",
+    "edition": 14,
+    "date": 1664262246137,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PHASE"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK KATAKANA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "ASTRAL"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "FOCUSED"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "BUBBLE"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "DARK SHIRAI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "JEWEL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "CHOKE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #15",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "0620d1f03f64e801ac5d766194fb040e3ef258da",
+    "edition": 15,
+    "date": 1664262247619,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GLORY"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK NATURAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "SLICK"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SCAR"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "BUBBLE"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "DARK SHIRAI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "KRISPY"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "KATANA"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #16",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "1ffbce783f5e68c37f3d85781b9c3c37e96ddc89",
+    "edition": 16,
+    "date": 1664262249126,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "RANKED"
+      },
+      {
+        "trait_type": "Face",
+        "value": "JHOA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "BUFF"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SCAR"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "EXO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "iroppoi"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CROSS"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "LITTLEFRIEND"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #17",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "74c76874f9d8feeb1997e13ae3cc01acbedcd5e2",
+    "edition": 17,
+    "date": 1664262250741,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PURPZ"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL JHOA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "ZOOTED"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SCAR"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SMOKIN"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "suberaka"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "JEWEL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "CHOKE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #18",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "5d61e86fae46ced31ba035c22a4cfd18a388bc9a",
+    "edition": 18,
+    "date": 1664262252570,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "HAZARD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "AOI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "BATTLE"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "BORG"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "EXO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "IPA"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "RUBYRED"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "MOTSU"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #19",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "886a537662018a42804b2df00b300e928a93a878",
+    "edition": 19,
+    "date": 1664262254312,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "WAVES"
+      },
+      {
+        "trait_type": "Face",
+        "value": "AOI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "BUFF"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SCAR"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "FRENCH"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "BROWN SHIRAI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "TRIBAL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "KATANA"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #20",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "53ede4c27b649fcebbd92cd4da0ccca32b16f7a4",
+    "edition": 20,
+    "date": 1664262256436,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "REVOLUTION"
+      },
+      {
+        "trait_type": "Face",
+        "value": "TRIBAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "ASTRAL"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SCAR"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "DEMON DEMPO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT LONG"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "JEWEL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "LITTLEFRIEND"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #21",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/21.png",
+    "dna": "f333f477457e16ce998d1af9fa4105f2db05a157",
+    "edition": 21,
+    "date": 1664262258082,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PHASE"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK AKAI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "RUBY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SHADES"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "BUBBLE"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "DARK SHIRAI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "TRIBAL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "KATANA"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #22",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/22.png",
+    "dna": "b6076d183a2ac5c3f653bbdd303587d7b463292c",
+    "edition": 22,
+    "date": 1664262259709,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "CLEAR"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PLAIN"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "KOI"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PATCH"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SMOKIN"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT LONG"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "KRISPY"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "MOTSU"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #23",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/23.png",
+    "dna": "88eb00c4c490babc34baedb708dc4633f1654f89",
+    "edition": 23,
+    "date": 1664262261583,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PHASE"
+      },
+      {
+        "trait_type": "Face",
+        "value": "AKAI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "SLICK"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SOLO"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "DEMON DEMPO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "BROND"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CLEAN"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "KATANA"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #24",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/24.png",
+    "dna": "b1341b0e834d634163b2f4461d3bda40f3b8658d",
+    "edition": 24,
+    "date": 1664262263195,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "WAVES"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK KATAKANA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "RUBY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "BORG"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "DEMPO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT SUBERAKA"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "TRIBAL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "KATANA"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #25",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/25.png",
+    "dna": "ddb93ab227e522055ecf4143570ffb5d3574e8fd",
+    "edition": 25,
+    "date": 1664262264669,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "CLEAR"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK AKAI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "SLICK"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SOLO"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "DEMON DEMPO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT SUBERAKA"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CROSS"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "NUNCHAK"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #26",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/26.png",
+    "dna": "8476f1ac178dbcc383b724bcb2d2483b54fb74de",
+    "edition": 26,
+    "date": 1664262266369,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GLORY"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK JHOA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "SLICK"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PATCH"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "FRENCH"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT SUBERAKA"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CLEAN"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "LITTLEFRIEND"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #27",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/27.png",
+    "dna": "40f56f636094727651bc6f9b3e94adc6fdf7abad",
+    "edition": 27,
+    "date": 1664262268014,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "TEAL"
+      },
+      {
+        "trait_type": "Face",
+        "value": "AOI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "SWAG"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SCAR"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "EXO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "nagai"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CELTIC"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "CHOKE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #28",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/28.png",
+    "dna": "acf657d1fce2c92d6e8268b71c1aa686152375a9",
+    "edition": 28,
+    "date": 1664262269589,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "REVOLUTION"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL JHOA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "BUFF"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "BORG"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SEEKER"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "BROND"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "JEWEL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "NUNCHAK"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #29",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/29.png",
+    "dna": "82daa410b6521020d989180a8026c1be3cc4cb02",
+    "edition": 29,
+    "date": 1664262271309,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "DEATH"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK KATAKANA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "BUFF"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SOLO"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SMOKIN"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "CAESAR"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CROSS"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "KATANA"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #30",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/30.png",
+    "dna": "9da89bbd09626ba888fc0271ce1d003196514fca",
+    "edition": 30,
+    "date": 1664262273307,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "HAZARD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "TRIBAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "BATTLE"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SOLO"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SEEKER"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT IROPPOI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "KRISPY"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "LITTLEFRIEND"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #31",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/31.png",
+    "dna": "96233fa559848fbf74a55ff8d31569d43cc462f5",
+    "edition": 31,
+    "date": 1664262274947,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "REVOLUTION"
+      },
+      {
+        "trait_type": "Face",
+        "value": "KATAKANA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "SWAG"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "FOCUSED"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "JAW"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "shirai"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "KRISPY"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "MOTSU"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #32",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/32.png",
+    "dna": "a2fea9b21712be6b77144b4c91112d5f4f3438a8",
+    "edition": 32,
+    "date": 1664262276614,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "CLEAR"
+      },
+      {
+        "trait_type": "Face",
+        "value": "TRIBAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "SWAG"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PATCH"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SEEKER"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "suberaka"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "RUBYRED"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "MOTSU"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #33",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/33.png",
+    "dna": "2070f2c6ef076605393eaa892bec78e70f800e38",
+    "edition": 33,
+    "date": 1664262278684,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "TEAL"
+      },
+      {
+        "trait_type": "Face",
+        "value": "KATAKANA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "ASTRAL"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SHADES"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "DEMPO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "CAESAR"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "RUBYRED"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "LITTLEFRIEND"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #34",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/34.png",
+    "dna": "33d4b507d2c7fb06df176d3fa5f7ac355d0e7978",
+    "edition": 34,
+    "date": 1664262280610,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "RANKED"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK TRIBAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "ASTRAL"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "FOCUSED"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "TWIG"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "CAESAR"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CLEAN"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "KATANA"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #35",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/35.png",
+    "dna": "93d392b5a214802596408e69e7158bcb282c8b12",
+    "edition": 35,
+    "date": 1664262282706,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PURPZ"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL JHOA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "BATTLE"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SCAR"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "DEMON DEMPO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "DARK SHIRAI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "KRISPY"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "LITTLEFRIEND"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #36",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/36.png",
+    "dna": "a7d68650bb895ed0439735658093bf66c3f71384",
+    "edition": 36,
+    "date": 1664262284180,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "REVOLUTION"
+      },
+      {
+        "trait_type": "Face",
+        "value": "KATAKANA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "BUFF"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "FOCUSED"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SMILE"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "suberaka"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "TRIBAL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "GLOW"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #37",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/37.png",
+    "dna": "86aa435e4abe9ace332fde25cb97c912bcf0be54",
+    "edition": 37,
+    "date": 1664262285742,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "TEAL"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK TRIBAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "RUBY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PATCH"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "TWIG"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT NAGAI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CELTIC"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "GLOW"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #38",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/38.png",
+    "dna": "a4d3ee7ae0f46510ba916a649f9a51f8c3a05304",
+    "edition": 38,
+    "date": 1664262287353,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PURPZ"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK NATURAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "TRADITIONAL"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SHADES"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "TWIG"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "CAESAR"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "JEWEL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "GLOW"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #39",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/39.png",
+    "dna": "36e5f234094ebb80c46070a2f0775981171500c9",
+    "edition": 39,
+    "date": 1664262289192,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "TEAL"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK JHOA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "TRADITIONAL"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "BORG"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SMOKIN"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "CAESAR"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "RUBYRED"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "CHOKE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #40",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/40.png",
+    "dna": "4668f936adf441062150d19eb9ad22376a24b6e2",
+    "edition": 40,
+    "date": 1664262290812,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "CLEAR"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK AKAI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "SWAG"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PATCH"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SEEKER"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "nagai"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CELTIC"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "KATANA"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #41",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/41.png",
+    "dna": "f38578b8436e018c45b9bb8865adb28e049a2e40",
+    "edition": 41,
+    "date": 1664262292443,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "HAZARD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "AKAI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "SWAG"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NATURAL"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "DEMPO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "DARK SHIRAI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "JEWEL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "CHOKE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #42",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/42.png",
+    "dna": "43b197f1caf44841ee491f8928f8a756e245060f",
+    "edition": 42,
+    "date": 1664262294277,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "HAZARD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK KATAKANA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "ZOOTED"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "BORG"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SMOKIN"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT IROPPOI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "JEWEL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "GLOW"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #43",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/43.png",
+    "dna": "d8c4b35cf409d740c946dff0529faf86e7678978",
+    "edition": 43,
+    "date": 1664262295943,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "TEAL"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL AOI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "RUBY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "FOCUSED"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "BUBBLE"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "BROWN SHIRAI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "TRIBAL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "GLOW"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #44",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/44.png",
+    "dna": "275237f34039cc0eda3205254bdcbac0529ddf0b",
+    "edition": 44,
+    "date": 1664262297536,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "WAVES"
+      },
+      {
+        "trait_type": "Face",
+        "value": "AOI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "KOI"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "BORG"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "JAW"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "BROWN SHIRAI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "KRISPY"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "MOTSU"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #45",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/45.png",
+    "dna": "fed24431e3c5b111ba19e7adc48dfb4960ea06f9",
+    "edition": 45,
+    "date": 1664262299181,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PHASE"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK NATURAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "TRADITIONAL"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PATCH"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SMILE"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT NAGAI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CELTIC"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "KATANA"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #46",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/46.png",
+    "dna": "22ef5a008407ff402ddb98e5db5970625f143c33",
+    "edition": 46,
+    "date": 1664262301050,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GLORY"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK JHOA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "TRADITIONAL"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SCAR"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "TWIG"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT NAGAI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CELTIC"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "LITTLEFRIEND"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #47",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/47.png",
+    "dna": "26b786ff9899316555ebaf20b76c75f1756f15d2",
+    "edition": 47,
+    "date": 1664262303237,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PURPZ"
+      },
+      {
+        "trait_type": "Face",
+        "value": "KATAKANA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "BUFF"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SHADES"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SEEKER"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "shirai"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CLEAN"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "LITTLEFRIEND"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #48",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/48.png",
+    "dna": "56281351c75a02de4a33d16cfcdc90dabc7410bb",
+    "edition": 48,
+    "date": 1664262306041,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "DEATH"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL JHOA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "ASTRAL"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "FOCUSED"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "BUBBLE"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT NAGAI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "RUBYRED"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "KATANA"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #49",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/49.png",
+    "dna": "88e7786c624e1a4346b11195391d76e53accb673",
+    "edition": 49,
+    "date": 1664262308402,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PHASE"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK TRIBAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "ZOOTED"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SHADES"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "JAW"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT SUBERAKA"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CROSS"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "MOTSU"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #50",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/50.png",
+    "dna": "e1a99804e6fc3b7c1b21ff2a39d63cbcf089a04d",
+    "edition": 50,
+    "date": 1664262311214,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GLORY"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL AOI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "KOI"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "FOCUSED"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "DEMPO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "iroppoi"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CLEAN"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "LITTLEFRIEND"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #51",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/51.png",
+    "dna": "cd36056ff7398592dd0653a6cd46b987dc42cb79",
+    "edition": 51,
+    "date": 1664262313275,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "REVOLUTION"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK TRIBAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "KOI"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PATCH"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SMILE"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT NAGAI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "TRIBAL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "LITTLEFRIEND"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #52",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/52.png",
+    "dna": "dde91ffafbd6ad2649709dacf941ba432312df78",
+    "edition": 52,
+    "date": 1664262315413,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "REVOLUTION"
+      },
+      {
+        "trait_type": "Face",
+        "value": "AKAI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "BUFF"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SCAR"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "TWIG"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "IPA"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "KRISPY"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "GLOW"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #53",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/53.png",
+    "dna": "9a579b9a20b633f177f954953210fa5ebe61db63",
+    "edition": 53,
+    "date": 1664262317516,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "WAVES"
+      },
+      {
+        "trait_type": "Face",
+        "value": "JHOA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "KOI"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "BORG"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "MASK"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "suberaka"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CLEAN"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "MOTSU"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #54",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/54.png",
+    "dna": "82459d0bac2f4207d1f9bf8784c6fa1f517a0a11",
+    "edition": 54,
+    "date": 1664262319368,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "CLEAR"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PLAIN"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "KOI"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PATCH"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "BUBBLE"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "shirai"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CELTIC"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "GLOW"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #55",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/55.png",
+    "dna": "95e4b72fa03d3e0828f2545de62e3b30a5a3a25c",
+    "edition": 55,
+    "date": 1664262321829,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PHASE"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL TRIBAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "TRADITIONAL"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PATCH"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "FRENCH"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT NAGAI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CLEAN"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "GLOW"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #56",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/56.png",
+    "dna": "c467125d4259e764d40ec73a64aeae33d087c13f",
+    "edition": 56,
+    "date": 1664262324362,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PHASE"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK TRIBAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "RUBY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SHADES"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SEEKER"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "suberaka"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CELTIC"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "NUNCHAK"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #57",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/57.png",
+    "dna": "cb401b27fb15f0b9bcb8fd0053d9a6edaa2e9e41",
+    "edition": 57,
+    "date": 1664262326505,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "WAVES"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK NATURAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "TRADITIONAL"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "BORG"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "BUBBLE"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "CAESAR"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CELTIC"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "GLOW"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #58",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/58.png",
+    "dna": "85231ce6263eac5174a6ae341bc7f43bedb781b4",
+    "edition": 58,
+    "date": 1664262329034,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "REVOLUTION"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL NATURAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "BATTLE"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SCAR"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "FRENCH"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT LONG"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "KRISPY"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "GLOW"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #59",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/59.png",
+    "dna": "f7031d221b6336c86e4dafbcb682a2e989a2660e",
+    "edition": 59,
+    "date": 1664262331228,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "CLEAR"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL NATURAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "ZOOTED"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "FOCUSED"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "DEMPO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "CAESAR"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "KRISPY"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "MOTSU"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #60",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/60.png",
+    "dna": "faacfb112078405aec5b50d8f5a98f80ad7b13db",
+    "edition": 60,
+    "date": 1664262333253,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "REVOLUTION"
+      },
+      {
+        "trait_type": "Face",
+        "value": "AKAI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "ZOOTED"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SHADES"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SMILE"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "nagai"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "JEWEL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "LITTLEFRIEND"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #61",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/61.png",
+    "dna": "3ba431dbafb17bd800da6ae5e874f45f265ee309",
+    "edition": 61,
+    "date": 1664262335207,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "WAVES"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK TRIBAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "KOI"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SHADES"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "BUBBLE"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "iroppoi"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "JEWEL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "CHOKE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #62",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/62.png",
+    "dna": "f2f3256467ea11aee2ce1b07f42671d2bc405d78",
+    "edition": 62,
+    "date": 1664262337556,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PURPZ"
+      },
+      {
+        "trait_type": "Face",
+        "value": "KATAKANA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "ASTRAL"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NATURAL"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "MASK"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT IROPPOI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "RUBYRED"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "CHOKE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #63",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/63.png",
+    "dna": "1d9a9d0bdeccebc8d7d9bf64d1370fdeb7c17e61",
+    "edition": 63,
+    "date": 1664262340142,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "RANKED"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK NATURAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "BATTLE"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SOLO"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "TWIG"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT IROPPOI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CLEAN"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "CHOKE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #64",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/64.png",
+    "dna": "44c172690cb7e08447845c741f46752716474bc3",
+    "edition": 64,
+    "date": 1664262341991,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "REVOLUTION"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL JHOA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "SLICK"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PATCH"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "DEMON DEMPO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT IROPPOI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CELTIC"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "LITTLEFRIEND"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #65",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/65.png",
+    "dna": "49b0a6e59752bddfea43fbecbd7aa2defba9bdb1",
+    "edition": 65,
+    "date": 1664262344320,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "CLEAR"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL AOI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "SLICK"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SHADES"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SEEKER"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT LONG"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "RUBYRED"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "NUNCHAK"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #66",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/66.png",
+    "dna": "3a24784f89a827b5834ade334fd891c5340aca42",
+    "edition": 66,
+    "date": 1664262346485,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "REVOLUTION"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL AKAI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "KOI"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "FOCUSED"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "JAW"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT NAGAI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CLEAN"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "CHOKE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #67",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/67.png",
+    "dna": "811339645db84b009d811fe3ed28234a65f0dfe4",
+    "edition": 67,
+    "date": 1664262348786,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "WAVES"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK TRIBAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "ASTRAL"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SHADES"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "TWIG"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT SUBERAKA"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CELTIC"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "LITTLEFRIEND"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #68",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/68.png",
+    "dna": "5fc4b17d431a7e146df93b3f37b8e6545edb1114",
+    "edition": 68,
+    "date": 1664262350749,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "RANKED"
+      },
+      {
+        "trait_type": "Face",
+        "value": "JHOA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "ZOOTED"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PATCH"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "MASK"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "shirai"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "TRIBAL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "KATANA"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #69",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/69.png",
+    "dna": "684e5fb8485eea1a39f1eac0c625ce81f4742907",
+    "edition": 69,
+    "date": 1664262353275,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "REVOLUTION"
+      },
+      {
+        "trait_type": "Face",
+        "value": "AKAI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "SWAG"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SOLO"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SMOKIN"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "DARK SHIRAI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CLEAN"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "CHOKE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #70",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/70.png",
+    "dna": "9dbcd95b883f3f386e924c7fd47a6bf254a1d139",
+    "edition": 70,
+    "date": 1664262356121,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "REVOLUTION"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK AOI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "BATTLE"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SOLO"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "DEMPO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "BROWN SHIRAI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "TRIBAL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "KATANA"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #71",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/71.png",
+    "dna": "d8d97dc2107ffbc3a8c4ad92142f857e1de27ec6",
+    "edition": 71,
+    "date": 1664262358574,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "TEAL"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PLAIN"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "KOI"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "FOCUSED"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SMOKIN"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "shirai"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "RUBYRED"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "LITTLEFRIEND"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #72",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/72.png",
+    "dna": "1d88f075a1ea4aa6fd22537ae4d7b8d283d5873f",
+    "edition": 72,
+    "date": 1664262361046,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GLORY"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK NATURAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "TRADITIONAL"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "BORG"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "JAW"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "BROND"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CROSS"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "GLOW"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #73",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/73.png",
+    "dna": "d131ba54a9a35919c894eeba2eec61723b995f3e",
+    "edition": 73,
+    "date": 1664262363137,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "DEATH"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL AOI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "ASTRAL"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NATURAL"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SEEKER"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "nagai"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CELTIC"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "CHOKE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #74",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/74.png",
+    "dna": "12b7e4cff27ab087625a3ff93b38c6691eddbf97",
+    "edition": 74,
+    "date": 1664262364669,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "WAVES"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK NATURAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "BUFF"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NATURAL"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SEEKER"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT IROPPOI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CELTIC"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "GLOW"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #75",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/75.png",
+    "dna": "fa3aba95e3c4f1f9966204bef732f5d13faefe9d",
+    "edition": 75,
+    "date": 1664262366508,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "WAVES"
+      },
+      {
+        "trait_type": "Face",
+        "value": "JHOA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "ASTRAL"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "FOCUSED"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SMILE"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "DARK SHIRAI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CROSS"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "MOTSU"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #76",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/76.png",
+    "dna": "0847a19cfa8520ac91f7f784de1c31c4b0909ab0",
+    "edition": 76,
+    "date": 1664262368072,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PURPZ"
+      },
+      {
+        "trait_type": "Face",
+        "value": "AOI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "SLICK"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NATURAL"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SMOKIN"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT SUBERAKA"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "RUBYRED"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "GLOW"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #77",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/77.png",
+    "dna": "8e9269fd5728e125b5c3692d8558b545aaac10e4",
+    "edition": 77,
+    "date": 1664262369835,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "REVOLUTION"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PLAIN"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "RUBY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NATURAL"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "MASK"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT SUBERAKA"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CLEAN"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "CHOKE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #78",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/78.png",
+    "dna": "dab56a0db1429aa9eae5ca78cd855da54b1ded61",
+    "edition": 78,
+    "date": 1664262371191,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PURPZ"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL JHOA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "KOI"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "BORG"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "TWIG"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "iroppoi"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "JEWEL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "MOTSU"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #79",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/79.png",
+    "dna": "5df86acd5938358c326a2008db66118fd01c1d73",
+    "edition": 79,
+    "date": 1664262373241,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "CLEAR"
+      },
+      {
+        "trait_type": "Face",
+        "value": "JHOA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "ASTRAL"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SOLO"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SEEKER"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "shirai"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CROSS"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "KATANA"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #80",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/80.png",
+    "dna": "51e7b2ed6b3f5a1c63ae960bbfff3399ac1a0a6c",
+    "edition": 80,
+    "date": 1664262374829,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "RANKED"
+      },
+      {
+        "trait_type": "Face",
+        "value": "AKAI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "TRADITIONAL"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SOLO"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SMILE"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "nagai"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "KRISPY"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "LITTLEFRIEND"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #81",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/81.png",
+    "dna": "b6859446446cb3a3b59f567a1e5406c9873080fa",
+    "edition": 81,
+    "date": 1664262376360,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "TEAL"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL NATURAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "ZOOTED"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SOLO"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SMILE"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT SUBERAKA"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "TRIBAL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "MOTSU"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #82",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/82.png",
+    "dna": "7d0110a7a9177c780601646b36ba3b3b04c8d9c8",
+    "edition": 82,
+    "date": 1664262378121,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "TEAL"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK KATAKANA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "ZOOTED"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "FOCUSED"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "BUBBLE"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT NAGAI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CLEAN"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "GLOW"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #83",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/83.png",
+    "dna": "d5345bd7e31f05131ec74a0a610a524e995dd0d7",
+    "edition": 83,
+    "date": 1664262379537,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "HAZARD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL KATAKANA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "KOI"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "FOCUSED"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "TWIG"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT SUBERAKA"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CELTIC"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "KATANA"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #84",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/84.png",
+    "dna": "ded0441e525e565236b94aa74e46b2de4d9ea8ee",
+    "edition": 84,
+    "date": 1664262381271,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "HAZARD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "KATAKANA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "RUBY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "FOCUSED"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "EXO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "BROND"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CLEAN"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "CHOKE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #85",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/85.png",
+    "dna": "591c2c6b52f2638ffc4703b134de13b0173393df",
+    "edition": 85,
+    "date": 1664262382848,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "REVOLUTION"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK KATAKANA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "RUBY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "BORG"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "BUBBLE"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT SUBERAKA"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CELTIC"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "CHOKE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #86",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/86.png",
+    "dna": "c200252bcc1843e0faabf6f6ea4b23a28643f0ab",
+    "edition": 86,
+    "date": 1664262384189,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "HAZARD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL AOI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "SWAG"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SCAR"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "EXO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT SUBERAKA"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CELTIC"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "MOTSU"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #87",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/87.png",
+    "dna": "6ea02ed689af189b15d9decd755d907089ea280f",
+    "edition": 87,
+    "date": 1664262386210,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "DEATH"
+      },
+      {
+        "trait_type": "Face",
+        "value": "AOI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "BATTLE"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NATURAL"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SEEKER"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "iroppoi"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "TRIBAL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "LITTLEFRIEND"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #88",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/88.png",
+    "dna": "c3ac723dc13c2dc25dc43fa03a882210c704f6c6",
+    "edition": 88,
+    "date": 1664262388043,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "DEATH"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL AOI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "BATTLE"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PATCH"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SMOKIN"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "DARK SHIRAI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "TRIBAL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "MOTSU"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #89",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/89.png",
+    "dna": "5951e00899cbe8b74e42c4380899524d07f21e86",
+    "edition": 89,
+    "date": 1664262390061,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "WAVES"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK AOI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "BATTLE"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SOLO"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SEEKER"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT NAGAI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "RUBYRED"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "KATANA"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #90",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/90.png",
+    "dna": "f530e7c31057dd171979f724862ebf0a898e846d",
+    "edition": 90,
+    "date": 1664262391855,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "WAVES"
+      },
+      {
+        "trait_type": "Face",
+        "value": "AOI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "BATTLE"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SCAR"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "EXO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "IPA"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CROSS"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "CHOKE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #91",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/91.png",
+    "dna": "ea7116fc17ab9ef9e57e9b379115bb6c48619da0",
+    "edition": 91,
+    "date": 1664262393529,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PHASE"
+      },
+      {
+        "trait_type": "Face",
+        "value": "AKAI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "ZOOTED"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PATCH"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "BUBBLE"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "suberaka"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "JEWEL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "MOTSU"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #92",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/92.png",
+    "dna": "80a3e6d4025ec617427ba1536a9ba4fbe2635863",
+    "edition": 92,
+    "date": 1664262395600,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "TEAL"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK JHOA"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "ASTRAL"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SHADES"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "BUBBLE"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "CAESAR"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "TRIBAL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "GLOW"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #93",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/93.png",
+    "dna": "b1a4e4fe7efe00426dee42f65af43c9dc7d5f9c7",
+    "edition": 93,
+    "date": 1664262397154,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "TEAL"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK NATURAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "KOI"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PATCH"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "DEMON DEMPO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "suberaka"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "RUBYRED"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "MOTSU"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #94",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/94.png",
+    "dna": "649136d6e789521b4cf24841f1eccd7ce2ef7a00",
+    "edition": 94,
+    "date": 1664262398802,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "TEAL"
+      },
+      {
+        "trait_type": "Face",
+        "value": "TRIBAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "KOI"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SOLO"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SMILE"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "BROWN SHIRAI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "TRIBAL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "MOTSU"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #95",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/95.png",
+    "dna": "41b0d4fde6a88eb13e27ef2fbe887a27ab69e0b9",
+    "edition": 95,
+    "date": 1664262400679,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "TEAL"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL TRIBAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "RUBY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SCAR"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "BUBBLE"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "CAESAR"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "KRISPY"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "CHOKE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #96",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/96.png",
+    "dna": "ed08eb0190bef5deb723b7e6eaddd414a0008c5e",
+    "edition": 96,
+    "date": 1664262402136,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "TEAL"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL TRIBAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "SWAG"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NATURAL"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "MASK"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "BROWN SHIRAI"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CELTIC"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "GLOW"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #97",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/97.png",
+    "dna": "3784f2aa6d1613719e8a7f6ed34158591b5d9f8a",
+    "edition": 97,
+    "date": 1664262403698,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "DEATH"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK NATURAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "KOI"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SOLO"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "MASK"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "BROND"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CLEAN"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "KATANA"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #98",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/98.png",
+    "dna": "25477817e712075cc19ab24ad1359bd246e96a8e",
+    "edition": 98,
+    "date": 1664262405449,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "CLEAR"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SOUL TRIBAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "BATTLE"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "FOCUSED"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "EXO"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LIGHT LONG"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "CELTIC"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "MOTSU"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #99",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/99.png",
+    "dna": "6353dcbfbb55dcffdc1f98f29f0988d09487f377",
+    "edition": 99,
+    "date": 1664262407064,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PHASE"
+      },
+      {
+        "trait_type": "Face",
+        "value": "DARK NATURAL"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "KOI"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PATCH"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "SMOKIN"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "iroppoi"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "JEWEL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "CHOKE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #100",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/100.png",
+    "dna": "260374d0cad423c69b653500d3e617b6ab5f8dd3",
+    "edition": 100,
+    "date": 1664262408752,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "CLEAR"
+      },
+      {
+        "trait_type": "Face",
+        "value": "AOI"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "BUFF"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SCAR"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "FRENCH"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "BROND"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "TRIBAL"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "KATANA"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
